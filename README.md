@@ -183,7 +183,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙏 Créditos
 
-- Layout por [adrianhajdin]
+- Layout por [adrianhajdin](https://github.com/adrianhajdin)
 - Modelo 3D: [MacBook Pro M3 16" 2024](https://sketchfab.com/3d-models/macbook-pro-m3-16-inch-2024-8e34fc2b303144f78490007d91ff57c4) por [jackbaeten](https://sketchfab.com/jackbaeten)
 - Licença do modelo: [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
 
